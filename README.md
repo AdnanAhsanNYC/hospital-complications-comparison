@@ -28,6 +28,7 @@ a data-driven starting point for quality improvement.
 | Version Control | Git / GitHub             |
 
 ## Project Structure
+```
 healthcare-bi-portfolio/
 ├── data/
 │   ├── raw/          ← original CMS CSV (not tracked in git)
@@ -36,7 +37,7 @@ healthcare-bi-portfolio/
 ├── notebooks/        ← Python cleaning scripts
 ├── outputs/          ← screenshots and exports
 └── README.md
-
+```
 ## Key Findings
 1. **Hospitals rated worse than national average score 2x higher** than 
    those rated better (22.36 vs 11.42 avg score)
